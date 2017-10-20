@@ -1,0 +1,112 @@
+Question 1
+You have no patience for dating because you're
+learning to code
+
+5 (Strongly Agree)
+
+1 (Strongly Disagree)
+2
+3
+4
+5 (Strongly Agree)
+
+
+Question 2
+You like to connect with someone but you'd rather have your Express connect with your Node first.
+
+2
+
+1 (Strongly Disagree)
+2
+3
+4
+5 (Strongly Agree)
+
+Question 3
+You find it easy to stay relaxed and focused even when there is some pressure to finish your homework.
+
+3
+
+1 (Strongly Disagree)
+2
+3
+4
+5 (Strongly Agree)
+
+Question 4
+You believe it's better to learn how to code than to be with someone like Alicia Vikander or Ryan Gosling.
+
+4
+
+1 (Strongly Disagree)
+2
+3
+4
+5 (Strongly Agree)
+
+Question 5
+A real programmer has no time for dating.
+
+3
+
+1 (Strongly Disagree)
+2
+3
+4
+5 (Strongly Agree)
+
+Question 6
+It is often difficult for you to relate to other people’s code.
+
+3
+
+1 (Strongly Disagree)
+2
+3
+4
+5 (Strongly Agree)
+
+Question 7
+Coding makes you bathe less.
+
+3
+
+1 (Strongly Disagree)
+2
+3
+4
+5 (Strongly Agree)
+
+Question 8
+You rarely get carried away by current events when you can't even handle an event listener.
+
+2
+
+1 (Strongly Disagree)
+2
+3
+4
+5 (Strongly Agree)
+
+Question 9
+You think that everyone’s views should be respected regardless of whether they can code or not.
+
+4
+
+1 (Strongly Disagree)
+2
+3
+4
+5 (Strongly Agree)
+
+Question 10
+You feel more energized after spending time with a group of programmers than your loved one.
+
+2
+
+1 (Strongly Disagree)
+2
+3
+4
+5 (Strongly Agree)
+ 
