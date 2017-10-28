@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Friend Finder - Node and Express Servers
 
 A compatibility-based "FriendFinder" application. This full-stack site takes in results of users' surveys and compared answers with those from other users. The app then displays the name and picture of the user with the best overall match. 
+=======
+
+
+A compatibility-based "FriendFinder" application using Node.js and Expess. This full-stack site takes in results of users' surveys and compared answers with those from other users. The app then displays the name and picture of the user with the best overall match. 
+>>>>>>> b01b7dbb43afd009407da573f5ed1af04a076b25
 
 Express was used to handle routing. This was supposed to be deployed to Heroku so other users can fill it out but there are errors in finding module.
 

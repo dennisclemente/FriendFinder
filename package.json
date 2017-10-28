@@ -16,6 +16,16 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
+    "inquirer": "^3.3.0",
     "path": "^0.12.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisclemente/friendfinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dennisclemente/friendfinder/issues"
+  },
+  "homepage": "https://github.com/dennisclemente/friendfinder#readme"
 }
